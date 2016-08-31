@@ -1,0 +1,35 @@
+CASE 1
+201
+FasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaFasdfasdfaa
+
+Error
+CASE 2
+42
+123aasfd df a fda sdf adfu9a0ef {((()))[]}
+
+Error
+CASE 3
+25
+[5*{8+[(34-3)/(42-0)+3]}]
+
+False
+CASE 4
+66
+{aa{iu[oo(jj)lk(ss)[dd(d)s(aa)aa]afs]s[gg[ehr(sdh)(gsdh)dd]s]d}ss}
+
+True
+CASE 5
+35
+(ff[dsg]as{gf}rh{sgd}fh(hj)ll12456)
+
+False
+CASE 6
+45
+{3*[(45-32)+(55/6)]*{1+[2+(3*5)*(90+33)]}+90}
+
+True
+CASE 7
+18
+]88}jiji{}()()[][]
+
+False
