@@ -13,8 +13,8 @@ TASK concerning **Stack & Queue** :</br>
 *   **Write an `algorithm`: **
 *  __first__ input a casual string incuding brackets ( ) [ ] { } along with other characters
 *  __then__　detect whether the brackets match:
-* Example:
-> 【input format】
+>  Example:
+【input format】
 Let the program read the string in "input.txt"(create one yourself in your file!). The string should not include the space.
 【output format】
 Let the program write the result into "output.txt". If the brackets match, `True` will be shown; if not, `False` will be shown.
