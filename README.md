@@ -15,17 +15,17 @@ TASK concerning **Stack & Queue** :</br>
 *  __then__　detect whether the brackets match:
 
 >Example:  
-
-【input format】
-
-Let the program read the string in "input.txt"(create one yourself in your file!). The string should not include the space.
-【output format】
-Let the program write the result into "output.txt". If the brackets match, `True` will be shown; if not, `False` will be shown.
-P.S. If the string includes the space or some errors occur in the program, `Error` will be shown.
-【input example(in __input.txt__)】
-Er45[d(d)a-fasdf[fdf{asfdf}]
-【output example(in __output.txt__)】 
+【input format】  
+Let the program read the string in "input.txt"(create one yourself in your file!). The string should not include the space.  
+【output format】  
+Let the program write the result into "output.txt". If the brackets match, `True` will be shown; if not, `False` will be shown.  
+P.S. If the string includes the space or some errors occur in the program, `Error` will be shown.  
+【input example(in __input.txt__)】  
+Er45[d(d)a-fasdf[fdf{asfdf}]  
+【output example(in __output.txt__)】   
 False
+
+***
 
 ### Preview:
 
